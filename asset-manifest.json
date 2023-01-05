@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://sanjarmedia.github.io/csb-mnd077/static/css/main.52eeca4a.chunk.css",
+    "main.js": "https://sanjarmedia.github.io/csb-mnd077/static/js/main.0c0336b3.chunk.js",
+    "main.js.map": "https://sanjarmedia.github.io/csb-mnd077/static/js/main.0c0336b3.chunk.js.map",
+    "runtime-main.js": "https://sanjarmedia.github.io/csb-mnd077/static/js/runtime-main.1f38cc95.js",
+    "runtime-main.js.map": "https://sanjarmedia.github.io/csb-mnd077/static/js/runtime-main.1f38cc95.js.map",
+    "static/js/2.be81b1b1.chunk.js": "https://sanjarmedia.github.io/csb-mnd077/static/js/2.be81b1b1.chunk.js",
+    "static/js/2.be81b1b1.chunk.js.map": "https://sanjarmedia.github.io/csb-mnd077/static/js/2.be81b1b1.chunk.js.map",
+    "index.html": "https://sanjarmedia.github.io/csb-mnd077/index.html",
+    "precache-manifest.4f77e26c6a0ccdf7a6aa3bc4618d245d.js": "https://sanjarmedia.github.io/csb-mnd077/precache-manifest.4f77e26c6a0ccdf7a6aa3bc4618d245d.js",
+    "service-worker.js": "https://sanjarmedia.github.io/csb-mnd077/service-worker.js",
+    "static/css/main.52eeca4a.chunk.css.map": "https://sanjarmedia.github.io/csb-mnd077/static/css/main.52eeca4a.chunk.css.map",
+    "static/js/2.be81b1b1.chunk.js.LICENSE": "https://sanjarmedia.github.io/csb-mnd077/static/js/2.be81b1b1.chunk.js.LICENSE",
+    "static/media/logo.png": "https://sanjarmedia.github.io/csb-mnd077/static/media/logo.16bcbe8d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f38cc95.js",
+    "static/js/2.be81b1b1.chunk.js",
+    "static/css/main.52eeca4a.chunk.css",
+    "static/js/main.0c0336b3.chunk.js"
+  ]
+}
